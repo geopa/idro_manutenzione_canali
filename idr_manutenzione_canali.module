@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the IDR Manutenzione Canali feature.
+ */
+
+include_once 'idr_manutenzione_canali.features.inc';
